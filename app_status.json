@@ -1,0 +1,10 @@
+{
+    "IKM-Survey-Imigrasi-Bengkulu": {
+        "status": "active",
+        "message": "Aplikasi Berjalan Normal"
+    },
+    "Another-App-Example": {
+        "status": "inactive",
+        "message": "Masa Percobaan Habis"
+    }
+}
