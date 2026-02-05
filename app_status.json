@@ -1,7 +1,7 @@
 {
     "IKM-Survey-Imigrasi-Bengkulu": {
-        "status": "active",
-        "message": "Aplikasi Berjalan Normal"
+        "status": "inactive",
+        "message": "Aplikasi Sedang Dihentikan"
     },
     "Another-App-Example": {
         "status": "inactive",
